@@ -1,0 +1,9 @@
+# Requirements that we need for this Sales_analysis.py project 
+ 
+-> pandas
+-> numpy
+
+# to install -
+
+pip install pandas 
+pip install numpy
